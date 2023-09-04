@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    background-color: #ccc;
+    padding: 5px;
+    justify-content: center;
+
+}
+.chose-resp{
+    display: none;
+}
+
+.conteiner{
+    justify-content: center;
+    margin: 0;
+    border: 1px solid black;
+    width: 40%;
+    margin-left: 24pc;
+    background-color: burlywood;
+}
+
+
+
